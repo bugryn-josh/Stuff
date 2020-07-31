@@ -1,0 +1,11 @@
+{
+    "url" : "google.com",
+    "keywords" : {
+        "hi" : "google.com/hi",
+         "bye" : "google.com/bye" 
+         }
+}
+
+const pages = ^^^^^
+
+Object.keys( pages.keywords ).forEach( k => console.log(k) );
